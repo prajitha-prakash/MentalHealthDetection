@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>#</th>
+        <th>DATE</th>
+        <th>USERNAME</th>
+        <th>COMPLAINT</th>
+        <th>REPLY</th>
+    </tr>
+    {% for i in data %}
+    <tr>
+        <td>{{ loop.index }}</td>
+        <td>{{ i.date }}</td>
+        <td>{{ i.name }}</td>
+        <td>{{ i.complaint }}</td>
+        <td>
+            {% if i.reply == "pending" %}
+                <a href="/send_reply/{{ i.cid }}">Reply</a>
+            {% else %}
+                {{ i.reply }}
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>
