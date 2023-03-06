@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f4e3126-850b-4f49-9b94-d15f67ba11ae" name="Default" comment="" />
+    <list default="true" id="1f4e3126-850b-4f49-9b94-d15f67ba11ae" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DBConnection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mental_health.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/admin_home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/approved_psychiatrist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/change_password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/psychiatrist_approval.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/rejected_psychiatrist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/send_reply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/view_complaints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/admin/view_users.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/pysh_reg.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emotion identification/login.py" afterPath="$PROJECT_DIR$/emotion identification/login.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,96 +29,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="mental_health.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mental_health.py">
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emotion identification/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3100">
-              <caret line="124" column="8" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-                <marker date="1676093988355" expanded="true" signature="318:354" ph="SELECT * FRO... login" />
-                <marker date="1676093988355" expanded="true" signature="318:382" ph="SELECT * FRO... login" />
-                <marker date="1676093988355" expanded="true" signature="318:395" ph="SELECT * FRO... login" />
-                <marker date="1676093988355" expanded="true" signature="988:1104" ph="SELECT * FRO... psychiatrist" />
-                <marker date="1676093988355" expanded="true" signature="1267:1324" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="1267:1332" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="1471:1532" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="1699:1820" ph="SELECT * FRO... psychiatrist" />
-                <marker date="1676093988355" expanded="true" signature="2007:2124" ph="SELECT * FRO... psychiatrist" />
-                <marker date="1676093988355" expanded="true" signature="2290:2308" ph="SELECT * FRO... user" />
-                <marker date="1676093988355" expanded="true" signature="2486:2580" ph="SELECT * FRO... complaint" />
-                <marker date="1676093988355" expanded="true" signature="2829:2857" ph="UPDATE compl... " />
-                <marker date="1676093988355" expanded="true" signature="2829:2879" ph="UPDATE compl... " />
-                <marker date="1676093988355" expanded="true" signature="2829:2887" ph="UPDATE compl... " />
-                <marker date="1676093988355" expanded="true" signature="3183:3210" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="3183:3218" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="3183:3229" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="3183:3241" ph="update login... " />
-                <marker date="1676093988355" expanded="true" signature="3981:4050" ph="INSERT INTO login... " />
-                <marker date="1676093988355" expanded="true" signature="3981:4070" ph="INSERT INTO login... " />
-                <marker date="1676093988355" expanded="true" signature="4092:4203" ph="INSERT INTO `psychiatrist`... " />
-                <marker date="1676093988355" expanded="true" signature="4092:4213" ph="INSERT INTO `psychiatrist`... " />
-                <marker date="1676093988355" expanded="true" signature="4092:4215" ph="INSERT INTO `psychiatrist`... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBConnection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DBConnection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/admin_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="change_password.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="psychiatrist_approval.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/psychiatrist_approval.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="approved_psychiatrist.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/approved_psychiatrist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="21" column="69" lean-forward="false" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+            <state relative-caret-position="752">
+              <caret line="114" column="21" lean-forward="false" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -119,6 +48,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,6 +67,7 @@
         <option value="$PROJECT_DIR$/templates/admin/change_password.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/templates/pysh_reg.html" />
+        <option value="$PROJECT_DIR$/emotion identification/login.py" />
       </list>
     </option>
   </component>
@@ -440,16 +373,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27083334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -475,251 +407,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mental_health.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2900">
-          <caret line="117" column="52" lean-forward="false" selection-start-line="117" selection-start-column="52" selection-end-line="117" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-            <marker date="1676093988355" expanded="true" signature="318:354" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:382" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:395" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="988:1104" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="1267:1324" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1267:1332" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1471:1532" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1699:1820" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2007:2124" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2290:2308" ph="SELECT * FRO... user" />
-            <marker date="1676093988355" expanded="true" signature="2486:2580" ph="SELECT * FRO... complaint" />
-            <marker date="1676093988355" expanded="true" signature="2829:2857" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2879" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2887" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3210" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3218" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3229" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3241" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4050" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4070" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4203" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4213" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4215" ph="INSERT INTO `psychiatrist`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mental_health.py">
+    <entry file="file://$PROJECT_DIR$/emotion identification/login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-            <marker date="1676093988355" expanded="true" signature="318:354" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:382" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:395" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="988:1104" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="1267:1324" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1267:1332" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1471:1532" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1699:1820" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2007:2124" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2290:2308" ph="SELECT * FRO... user" />
-            <marker date="1676093988355" expanded="true" signature="2486:2580" ph="SELECT * FRO... complaint" />
-            <marker date="1676093988355" expanded="true" signature="2829:2857" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2879" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2887" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3210" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3218" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3229" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3241" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4050" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4070" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4203" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4213" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4215" ph="INSERT INTO `psychiatrist`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html">
+    <entry file="file://$PROJECT_DIR$/emotion identification/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html">
+    <entry file="file://$PROJECT_DIR$/mental_health.py" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html" />
+    <entry file="file://$PROJECT_DIR$/mental_health.py" />
+    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_users.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/rejected_psychiatrist.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html" />
+    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/admin_home.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/approved_psychiatrist.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/psychiatrist_approval.html" />
+    <entry file="file://$PROJECT_DIR$/mental_health.py" />
+    <entry file="file://$PROJECT_DIR$/DBConnection.py" />
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/emotion identification/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/view_users.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/rejected_psychiatrist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pysh_reg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/admin_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/approved_psychiatrist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="21" column="69" lean-forward="false" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/change_password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/admin/psychiatrist_approval.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mental_health.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3100">
-          <caret line="124" column="8" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-            <marker date="1676093988355" expanded="true" signature="318:354" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:382" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="318:395" ph="SELECT * FRO... login" />
-            <marker date="1676093988355" expanded="true" signature="988:1104" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="1267:1324" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1267:1332" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1471:1532" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="1699:1820" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2007:2124" ph="SELECT * FRO... psychiatrist" />
-            <marker date="1676093988355" expanded="true" signature="2290:2308" ph="SELECT * FRO... user" />
-            <marker date="1676093988355" expanded="true" signature="2486:2580" ph="SELECT * FRO... complaint" />
-            <marker date="1676093988355" expanded="true" signature="2829:2857" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2879" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="2829:2887" ph="UPDATE compl... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3210" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3218" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3229" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3183:3241" ph="update login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4050" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="3981:4070" ph="INSERT INTO login... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4203" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4213" ph="INSERT INTO `psychiatrist`... " />
-            <marker date="1676093988355" expanded="true" signature="4092:4215" ph="INSERT INTO `psychiatrist`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="752">
+          <caret line="114" column="21" lean-forward="false" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
           <folding />
         </state>
       </provider>
